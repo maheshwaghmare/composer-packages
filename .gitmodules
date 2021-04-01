@@ -1,0 +1,6 @@
+[submodule "packages/wp-admin-notices"]
+	path = packages/wp-admin-notices
+	url = https://github.com/maheshwaghmare/composer__wp-admin-notices
+[submodule "packages/wp-remote-requests"]
+	path = packages/wp-remote-requests
+	url = https://github.com/maheshwaghmare/composer__wp-remote-requests
