@@ -1,0 +1,10 @@
+{
+    "name": "maheshwaghmare/composer-packages",
+    "authors": [
+        {
+            "name": "Mahesh Waghmare",
+            "email": "mwaghmare7@gmail.com"
+        }
+    ],
+    "require": {}
+}
