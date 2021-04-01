@@ -18,7 +18,7 @@ define( 'CP_BASE', plugin_basename( CP_FILE ) );
 define( 'CP_DIR', plugin_dir_path( CP_FILE ) );
 define( 'CP_URI', plugins_url( '/', CP_FILE ) );
 
-require_once CP_DIR . 'packages/wp-admin-notices/vendor/autoload.php';
+// require_once CP_DIR . 'packages/wp-admin-notices/vendor/autoload.php';
 // require_once CP_DIR . 'packages/wp-admin-notices/php/index.php';
 
 // use WP_Admin_Notices;
